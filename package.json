@@ -1,6 +1,18 @@
 {
+  "name": "react-object-input",
+  "author": "Greg Brown <greg@gregbrown.co.nz> (https://gregbrown.co)",
+  "description": "A React component which facilitates user-friendly editing of plain javascript objects.",
   "version": "0.2.0",
+  "keywords": [
+    "react",
+    "json editor"
+  ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gregplaysguitar/react-object-input.git"
+  },
+  "homepage": "https://github.com/gregplaysguitar/react-object-input",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -25,8 +37,6 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "name": "react-object-input",
-  "author": "Greg Brown",
   "module": "dist/react-object-input.esm.js",
   "devDependencies": {
     "@babel/core": "^7.9.6",

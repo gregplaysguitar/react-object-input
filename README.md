@@ -8,7 +8,7 @@ A React component which facilitates user-friendly editing of plain javascript ob
 
 In [Typescript](https://www.typescriptlang.org/) terms, given a `Record<string, T>`, where T is some arbitrary type, and a React component which can edit a single instance of T, `ObjectInput` provides the scaffolding for a property-list-style editor.
 
-![Object Input demo](demo.gif)
+![Object Input demo](https://raw.githubusercontent.com/gregplaysguitar/react-object-input/master/demo.gif)
 
 ## Example implementation
 
