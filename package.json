@@ -2,7 +2,7 @@
   "name": "react-object-input",
   "author": "Greg Brown <greg@gregbrown.co.nz> (https://gregbrown.co)",
   "description": "A React component which facilitates user-friendly editing of plain javascript objects.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "keywords": [
     "react",
     "json editor"
