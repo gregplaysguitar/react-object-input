@@ -14,6 +14,8 @@ In [Typescript](https://www.typescriptlang.org/) terms, given a `Record<string, 
 ## Example implementation
 
 ```typescript
+import {ObjectInput} from 'react-object-input'
+
 export const MyComponent = () => {
   // create a simple object to edit - this can be as complex as you like, e.g.
   // <Record<string, CustomType>> - so long as CustomType is handled by the
