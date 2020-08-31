@@ -1,6 +1,7 @@
 # React Object Input
 
 [![](https://github.com/gregplaysguitar/react-object-input/workflows/Build/badge.svg)](https://github.com/gregplaysguitar/react-object-input/actions?query=workflow%3ABuild)
+[![NPM](https://nodei.co/npm/react-object-input.png?mini=true)](https://nodei.co/npm/react-object-input/)
 
 A React component which facilitates user-friendly editing of plain javascript objects. The result acts as a [controlled component](https://reactjs.org/docs/forms.html#controlled-components), suitable for use in a React form - no internal state to get out of sync. The UI maintains consistent order of items, despite `object` giving no order guarantees.
 
