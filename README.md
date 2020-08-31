@@ -50,6 +50,13 @@ export const MyComponent = () => {
 }
 ```
 
+## Installation
+
+```
+npm i react-object-input 
+yarn add react-object-input 
+```
+
 ## Development
 
 To build the library and watch for changes
