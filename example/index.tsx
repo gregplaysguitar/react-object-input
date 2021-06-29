@@ -28,7 +28,11 @@ export const App = () => {
 
   return (
     <div style={{padding: '0 20px', maxWidth: '960px', margin: 'auto'}}>
-      <h2><a href="https://github.com/gregplaysguitar/react-object-input">React Object Input Demo</a></h2>
+      <h2>
+        <a href="https://github.com/gregplaysguitar/react-object-input">
+          React Object Input Demo
+        </a>
+      </h2>
       <nav style={{display: 'flex', margin: '0 0 20px'}}>
         {[
           ['/', 'Simple'],
@@ -44,8 +48,13 @@ export const App = () => {
             {name}
           </A>
         ))}
-        
-        <a style={{marginLeft: 'auto'}} href="https://github.com/gregplaysguitar/react-object-input">More information</a></nav>
+
+        <a
+          style={{marginLeft: 'auto'}}
+          href="https://github.com/gregplaysguitar/react-object-input"
+        >
+          More information
+        </a>
       </nav>
 
       {{
