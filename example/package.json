@@ -10,7 +10,7 @@
   "dependencies": {
     "history": "^4.10.1",
     "react": ">=15",
-    "react-app-polyfill": "^1.0.0",
+    "react-app-polyfill": "^2.0.0",
     "style.css": "^1.0.0"
   },
   "alias": {
