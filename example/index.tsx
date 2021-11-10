@@ -24,7 +24,7 @@ const A = ({
 
 export const App = () => {
   const [path, setPath] = React.useState(window.location.pathname)
-  React.useEffect(() => history.listen(e => setPath(e.pathname)))
+  React.useEffect(() => history.listen(e => setPath(e.location.pathname)))
 
   return (
     <div style={{padding: '0 20px', maxWidth: '960px', margin: 'auto'}}>
