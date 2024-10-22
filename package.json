@@ -39,7 +39,7 @@
   },
   "module": "dist/react-object-input.esm.js",
   "devDependencies": {
-    "@babel/core": "7.9.6",
+    "@babel/core": "7.25.9",
     "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "12.0.0",
     "@types/react": "17.0.13",
