@@ -729,10 +729,10 @@ source-map@^0.5.0:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
   integrity sha1-igOdLRAh0i0eoUyA2OpGi6LvP8w=
 
-style.css@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/style.css/-/style.css-1.0.0.tgz#0ee5aa605dfa962ab2b2ed06a809f672594ce344"
-  integrity sha512-Ko0Bj+wqvyBpejOUKwPGNabkXl73yLZygnsfwKtL8YVYyyOXp4GXWGsKlAxw4Na83JOBSFzwh6yCr0P2ohcwJQ==
+style.css@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/style.css/-/style.css-1.0.3.tgz#0ce485de0ce9974b2a2d1b5d59e58dfbd9b2cd2b"
+  integrity sha512-gek0b2UUoC2u1apcSFlEBdX3VxgKo+iAui/nTtpRBmkUlKbdYgtBU8t4tv0OAIZxNIl50htVGNWyafD1g4dlDg==
 
 supports-color@^5.3.0:
   version "5.5.0"
